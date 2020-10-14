@@ -1,8 +1,9 @@
 # FileStructures
 <p>The projects focus on read/write binary files and on the implementation of B-Trees.</p> 
 <p>Here are the features descriptions:</p>
-  1.  Data storage from .csv to .bin file
-  2.  Full data recovery
+
+  1. Data storage from .csv to .bin file
+  2. Full data recovery
   3.  Data recovery based on search criteria
   4.  Data recovery based on RRN
   5.  Logic Removal - Static Approach
