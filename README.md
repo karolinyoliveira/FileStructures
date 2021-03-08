@@ -1,5 +1,6 @@
 # FileStructures
-<p>The projects focus on read/write binary files and on the implementation of B-Trees.</p> 
+<p>The project focus on read/write binary files and on the implementation of B-Trees. </p> 
+<p>The code are extremely commented to follow rules from the Professor and I decided to let them here to help future students. </p> 
 <p>Here are the features descriptions:</p>
 
   1. Data storage from .csv to .bin file
